@@ -1,0 +1,21 @@
+{
+	"name": "uim-rest-api",
+	"authors": ["uim"],
+	"description": "Rest API Interface",
+	"copyright": "Copyright © 2019, uim",
+	"license": "proprietary",
+	"targetType": "library",
+	"dependencies": {
+		"vibe-d": "==0.8.5"
+	},
+	"sourcePaths": [
+		"../../LIBRARIES/core",
+		"../../LIBRARIES/oop",
+		"./"
+	],
+	"importPaths": [
+		"../../LIBRARIES/core",
+		"../../LIBRARIES/oop",
+		"./"
+	]
+}
